@@ -14,20 +14,27 @@ I'm Nathan Shelley — a commercial pilot and Certified Flight Instructor (CFI/C
 ## Technologies and Tools
 
 - **Programming Languages:** C, C++, Java, Python  
-- **Web Development:** HTML, CSS, JavaScript (foundational)  
-- **Aviation Tools:** ForeFlight, SOP & checklist-driven operations  
+- **Web Development:** HTML, CSS, JavaScript
 - **Core Skills:** Systems thinking, technical problem solving, clear communication, safety-focused decision making  
 
-## What I'm Working On
+## Featured Projects
 
-- Building a strong foundation in software development and computer science fundamentals  
-- Exploring how software and automation can improve safety and efficiency in aviation  
-- Continuing professional development in both aviation and technical domains  
+- 🌐 **WDD 231 Course Work**  
+  Responsive web development projects demonstrating modern HTML, CSS, and JavaScript  
+  👉 https://newtguy.github.io/wdd231/
+
+- 🎵 **Sound Cove**  
+  A clean, user-focused web project centered around making custom playlists
+  👉 https://newtguy.github.io/sound-cove/
+
+- 🧩 **Maze Pathfinder**  
+  Data structures and algorithmic problem-solving using 3D mazes and traversal logic  
+  👉 https://replit.com/@natedawg7/CS-235#Lab4/Maze-Lab
 
 ## Let's Connect!
 
 - [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
- LinkedIn: https://www.linkedin.com/in/the-coding-pilot  
+: https://www.linkedin.com/in/the-coding-pilot  
 - 📧 Email: nate.e.shelley@gmail.com  
 
-Feel free to explore my repositories or reach out—always happy to connect with fellow pilots, engineers, and builders. 🚀
+Feel free to reach out—always happy to connect with fellow pilots, engineers, and builders. 🚀
