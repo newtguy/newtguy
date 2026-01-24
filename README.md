@@ -26,7 +26,8 @@ I'm Nathan Shelley — a commercial pilot and Certified Flight Instructor (CFI/C
 
 ## Let's Connect!
 
-- 💼 LinkedIn: https://www.linkedin.com/in/the-coding-pilot  
+- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+ LinkedIn: https://www.linkedin.com/in/the-coding-pilot  
 - 📧 Email: nate.e.shelley@gmail.com  
 
 Feel free to explore my repositories or reach out—always happy to connect with fellow pilots, engineers, and builders. 🚀
