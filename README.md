@@ -24,7 +24,7 @@ I'm Nathan Shelley — a commercial pilot and Certified Flight Instructor (CFI/C
   👉 https://newtguy.github.io/wdd231/
 
 - 🎵 **Sound Cove**  
-  A clean, user-focused web project centered around making custom playlists
+  A clean, user-focused web project centered around making custom playlists  
   👉 https://newtguy.github.io/sound-cove/
 
 - 🧩 **Maze Pathfinder**  
