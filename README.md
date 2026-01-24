@@ -26,7 +26,7 @@ I'm Nathan Shelley — a commercial pilot and Certified Flight Instructor (CFI/C
 - 🧩 **Data Structures and Algorithms**
   - BYU CS-235 labs demonstrating data structures, algorithms, and problem-solving: [CS235 GitHub Repository](https://github.com/newtguy/CS235)
  
-## Github Stats
+## GitHub Stats
 
 [![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=newtguy)](https://github.com/anuraghazra/github-readme-stats)
 
