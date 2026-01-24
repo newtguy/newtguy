@@ -19,17 +19,12 @@ I'm Nathan Shelley — a commercial pilot and Certified Flight Instructor (CFI/C
 
 ## Featured Projects
 
-- 🌐 **WDD 231 Course Work**  
-  Responsive web development projects demonstrating modern HTML, CSS, and JavaScript  
-  👉 https://newtguy.github.io/wdd231/
+- 🌐 **Web Development Projects**
+  - WDD 231 Course Work: [https://newtguy.github.io/wdd231/](https://newtguy.github.io/wdd231/)  
+  - Sound Cove: [https://newtguy.github.io/sound-cove/](https://newtguy.github.io/sound-cove/)
 
-- 🎵 **Sound Cove**  
-  A clean, user-focused web project centered around making custom playlists  
-  👉 https://newtguy.github.io/sound-cove/
-
-- 🧩 **Maze Pathfinder**  
-  Data structures and algorithmic problem-solving using 3D mazes and traversal logic  
-  👉 https://replit.com/@natedawg7/CS-235#Lab4/Maze-Lab
+- 🧩 **Data Structures and Algorithms**
+  - BYU CS-235 labs demonstrating data structures, algorithms, and problem-solving: [CS235 GitHub Repository](https://github.com/newtguy/CS235)
 
 ## Let's Connect!
 
