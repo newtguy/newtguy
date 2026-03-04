@@ -32,10 +32,14 @@ I'm Nathan Shelley — a commercial pilot and Certified Flight Instructor (CFI/C
  
 ## GitHub Stats
 
-[![GitHub stats](https://github-readme-stats-newtguy.vercel.app/api?username=newtguy&show_icons=true&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/newtguy)
-
-[![Top Languages](https://github-readme-stats-newtguy.vercel.app/api/top-langs?username=newtguy&layout=compact&theme=tokyonight)](https://github.com/newtguy)
-
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/newtguy">
+    <img src="https://github-readme-stats-newtguy.vercel.app/api?username=newtguy&show_icons=true&hide=stars,issues,contribs&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/newtguy">
+    <img src="https://github-readme-stats-newtguy.vercel.app/api/top-langs?username=newtguy&layout=compact&theme=tokyonight" />
+  </a>
+</div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=newtguy&theme=tokyonight)](https://github.com/newtguy)
 
 
