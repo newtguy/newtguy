@@ -13,22 +13,26 @@ I'm Nathan Shelley — a commercial pilot and Certified Flight Instructor (CFI/C
 
 ## Technologies and Tools
 
-- **Programming Languages:** C, C++, Java, Python  
+- **Programming Languages:** C, C++, Java, Python, Kotlin
 - **Web Development:** HTML, CSS, JavaScript
 - **Core Skills:** Systems thinking, technical problem solving, clear communication, safety-focused decision making  
 
 ## Featured Projects
 
 - 🌐 **Web Development Projects**
-  - WDD 231 Course Work: [https://newtguy.github.io/wdd231/](https://newtguy.github.io/wdd231/)  
+  - Nate's Lounge Website: [https://newtguy.github.io/wdd231/](https://newtguy.github.io/wdd231/)  
   - Sound Cove: [https://newtguy.github.io/sound-cove/](https://newtguy.github.io/sound-cove/)
 
 - 🧩 **Data Structures and Algorithms**
   - BYU CS-235 labs demonstrating data structures, algorithms, and problem-solving: [CS235 GitHub Repository](https://github.com/newtguy/CS235)
+
+- 📱 **Applications**
+  - Aviation Weight & Balance: [Android W&B App](https://github.com/newtguy/wbApp)
+  - Python Arcade Game: [PhaseDot](https://github.com/newtguy/phasedot)
  
 ## GitHub Stats
 
-[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=newtguy)](https://github.com/anuraghazra/github-readme-stats)
+[![Nathan's GitHub stats](https://github-readme-stats-newtguy.vercel.app/api?username=newtguy&show_icons=true)](https://github.com/newtguy)
 
 ## Let's Connect!
 
